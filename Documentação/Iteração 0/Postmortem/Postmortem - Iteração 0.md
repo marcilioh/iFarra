@@ -4,19 +4,13 @@
 
 Início da Iteração
 
+20/04/2017
  
 
 Término da iteração
 
- 
+26/04/2017
 
-20/04/2017
-
- 
-
-26/04/207
-
-  
 -------------------------
 #### O que estava planejado
 
