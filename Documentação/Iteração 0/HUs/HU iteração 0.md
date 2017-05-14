@@ -4,6 +4,7 @@
 
 Como usuário (all)
 
+<<<<<<< HEAD
 Gostaria de criar uma conta com minhas informações
 
 Para acessar as funcionalidades da aplicação iFarra
@@ -12,6 +13,8 @@ Para acessar as funcionalidades da aplicação iFarra
 
 Como usuário (all)
 
+=======
+>>>>>>> e0e49d4bdbdb1b1b0d29bab3770f0cfd968140ac
 Gostaria de fazer o login simples na aplicação
 
 Para acessar e alterar minhas informações de perfil
